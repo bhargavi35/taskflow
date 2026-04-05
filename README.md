@@ -34,3 +34,47 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# TaskFlow – Fullstack CRUD Application
+
+## 🚀 Live Demo
+https://taskflow-ashen-omega.vercel.app
+
+## 📂 GitHub Repository
+https://github.com/bhargavi35/taskflow
+
+## 🧠 Project Overview
+TaskFlow is a full-stack CRUD application built using Next.js 16, designed to manage tasks efficiently with authentication and scalable architecture.
+
+## 🛠 Tech Stack
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- PostgreSQL (Neon)
+- Prisma ORM
+- NextAuth (Auth.js)
+
+## ✨ Features
+- User Authentication (Login/Signup)
+- Create, Read, Update, Delete Tasks
+- Protected Routes
+- Responsive UI
+- Scalable backend architecture
+
+## 🔐 Security
+- Environment variables secured
+- Input validation
+- Protected routes
+
+## ⚡ Performance Optimizations
+- Server-side rendering (SSR)
+- Optimized API routes
+- Efficient DB queries
+
+## 🌍 Deployment
+Deployed on Vercel with CI/CD integration.
+
+## 👩‍💻 Author
+Bhargavi Chella  
+GitHub: https://github.com/bhargavi35  
+LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
