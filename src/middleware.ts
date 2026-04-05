@@ -1,5 +1,4 @@
-export { auth as middleware } from "@/lib/auth";
-
+// middleware.ts
 export const config = {
-  matcher: ["/dashboard/:path*", "/projects/:path*", "/settings/:path*"],
+  matcher: [],
 };
